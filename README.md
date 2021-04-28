@@ -1,7 +1,11 @@
+[![Coverage Status](https://coveralls.io/repos/github/matheus510/clean-kind-app/badge.svg?branch=main)](https://coveralls.io/github/matheus510/clean-kind-app?branch=main)
+[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
 # kind-app-boilerplate
 
 <p align="center">
-  <b>A kind Typescript Node.js API boilerplate for my own personal development.</b></br>
+  <b>A kind Typescript Node.js API boilerplate for my own personal development. Anyone is free to build it with me.</b></br>
   <span>Inspired by <a href="https://github.com/w3tecch/express-typescript-boilerplate/">w3tecch</a></span>
    &&
    <span>Inspired by <a href="https://github.com/rmanguinho/clean-ts-api/">rmanguinho</a></span>
